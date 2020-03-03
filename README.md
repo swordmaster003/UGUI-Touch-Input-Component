@@ -7,6 +7,8 @@
 
 ## Features
 
+- This package contains a total of three components:the virtual joystick , the dynamic joystick and the virtual button.
+
 - All of these UGUI input component are signed for mobile platform,you can test these input component with mouse input easily In the
 
   Unity editor.
@@ -22,8 +24,6 @@
   * Another way you can get the input value of these input component in coding.
 
 ## Input Components
-
-Touch Input Component package contains a total of three components:the virtual joystick , the dynamic joystick and the virtual button.
 
 All of these component are signed for mobile platform,It’s very easy to create and use for your game.
 
