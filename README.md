@@ -13,13 +13,15 @@
 
 - It’s very easy to create,just like the other GUI Components.
 
-  After creating them, there are two ways to use them:
+  ![image](https://github.com/swordmaster003/UGUI-Touch-Input-Component/blob/master/Screenshots/13.png)
+
+- After creating them, there are two ways to use them:
 
   * One way you can regist function to UnityEvent of these component on their inspector in the Unity editor.
 
   * Another way you can get the input value of these input component in coding.
 
-## Components
+## Input Components
 
 Touch Input Component package contains a total of three components:the virtual joystick , the dynamic joystick and the virtual button.
 
